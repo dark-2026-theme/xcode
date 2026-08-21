@@ -17,6 +17,7 @@ near-black `#121314` canvas.
 | kitty | [dark-2026-theme/kitty](https://github.com/dark-2026-theme/kitty) | terminal theme |
 | Xcode | [dark-2026-theme/xcode](https://github.com/dark-2026-theme/xcode) | **this repo** |
 | Obsidian | [dark-2026-theme/obsidian](https://github.com/dark-2026-theme/obsidian) | app theme |
+| Yazi | [dark-2026-theme/yazi](https://github.com/dark-2026-theme/yazi) | file manager |
 
 Every port shares one palette, so the Xcode editor, `:terminal` inside Neovim and the host
 terminal all render the same colors.
