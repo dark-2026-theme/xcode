@@ -2,6 +2,10 @@
   <img src="assets/logo.svg" alt="dark-2026" width="96" />
 </p>
 
+<p align="center">
+  <img src="assets/xcode.png" alt="dark-2026" />
+</p>
+
 # dark-2026 — Xcode
 
 A dark theme for [Xcode](https://developer.apple.com/xcode/), ported from VS Code's **Dark
